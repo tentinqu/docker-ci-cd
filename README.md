@@ -102,4 +102,8 @@ Refer to the original project:
 
 Check out the original project [here](https://github.com/hkhcoder/vprofile-project.git)
 
+Read the full write-up [here](https://www.notion.so/CI-CD-with-Docker-Jenkins-AWS-Full-Pipeline-Breakdown-1f77d8e8dcad805891d0f58b706134a0?pvs=4)
+
+
+
 
