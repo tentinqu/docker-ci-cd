@@ -100,4 +100,6 @@ ECR	AWS Console or CLI
 Refer to the original project:
 [CI with Jenkins + SonarQube + Nexus](https://github.com/tentinqu/ci-pipeline.git)
 
+Check out the original project [here](https://github.com/hkhcoder/vprofile-project.git)
+
 
